@@ -1,3 +1,5 @@
+![redmine](https://user-images.githubusercontent.com/31807256/56870492-bbba2580-69d5-11e9-88d2-ec89893e0f82.png)
+
 # Docker-Compose-Redmine
 
 Docker-compose de la aplicacion Redmine
