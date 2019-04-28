@@ -41,10 +41,11 @@ _La forma más fácil de ejecutar este contenedor es en modo privilegiado, ya qu
 _Para montar la aplicacion simplemente ejecutamos:_
 ```docker-compose up```
 _Una vez que el servicio esté listo, puede acceder a él desde el navegador con localhost:8080._
-_Para acceder a la aplicacion: 
+
+Para acceder a la aplicacion: 
 * User: admin
 * Password: admin
-_
+
 
 ## Autores
 
